@@ -1,0 +1,7 @@
+hari : senin|| Aktivitas : kuliah,tim
+hari : selasa|| Aktivitas : kuliah,tim
+hari : rabu|| Aktivitas : tim
+hari : kamis|| Aktivitas : kuliah,tim
+hari : jumat|| Aktivitas : kuliah,tim
+hari : sabtu|| Aktivitas : tim
+hari : minggu|| Aktivitas : libur

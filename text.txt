@@ -1,7 +1,0 @@
-hari : senin|| Aktivitas : a
-hari : selasa|| Aktivitas : a
-hari : rabu|| Aktivitas : a
-hari : kamis|| Aktivitas : a
-hari : jumat|| Aktivitas : a
-hari : sabtu|| Aktivitas : e
-hari : minggu|| Aktivitas : a
