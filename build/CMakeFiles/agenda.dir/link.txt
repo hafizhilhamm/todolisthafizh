@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/agenda.dir/main.cpp.o  -o agenda  libJadwal.a 

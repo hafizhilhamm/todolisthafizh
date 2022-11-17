@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hafizh/todolist/agenda.h
+iostream
+-
+fstream
+-
+
+/home/hafizh/todolist/main.cpp
+iostream
+-
+agenda.h
+/home/hafizh/todolist/agenda.h
+
