@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/hafizh/todolist/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/agenda.dir/main.cpp.o -c /home/hafizh/todolist/main.cpp",
+  "file": "/home/hafizh/todolist/main.cpp"
+},
+{
+  "directory": "/home/hafizh/todolist/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/Jadwal.dir/agenda.cpp.o -c /home/hafizh/todolist/agenda.cpp",
+  "file": "/home/hafizh/todolist/agenda.cpp"
+}
+]

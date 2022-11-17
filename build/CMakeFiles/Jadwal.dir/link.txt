@@ -1,0 +1,2 @@
+/usr/bin/ar qc libJadwal.a  CMakeFiles/Jadwal.dir/agenda.cpp.o
+/usr/bin/ranlib libJadwal.a
