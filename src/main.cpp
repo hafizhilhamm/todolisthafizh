@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
- std::ofstream fw("text.txt", std::ofstream::out);
+std::ofstream fw("text.txt", std::ofstream::out);
 class Agenda{
 std::string hari;
 char aktivitas[30];
